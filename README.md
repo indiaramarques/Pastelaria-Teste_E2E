@@ -1,6 +1,6 @@
 # **Testes Automatizados para Sistema de Pastelaria**
 
-Este repositório contém uma suíte de testes automatizados utilizando Pytest e Selenium para testar um sistema de pedidos de uma pastelaria web.
+- Este repositório contém uma suíte de testes automatizados utilizando Pytest e Selenium para testar um sistema de pedidos de uma pastelaria web.
 
 ## **Tecnologias Utilizadas**:
 
@@ -14,7 +14,8 @@ Este repositório contém uma suíte de testes automatizados utilizando Pytest e
 
 - Python (versão 3.8 ou superior)
 - Google Chrome
--	Dependências do projeto (Pytest, Selenium)
+- Dependências do projeto (Pytest, Selenium)
+- Rodar o docker do projeto `https://github.com/Phl14Fontes/pastry-order-service`
 
 ##	Clonar o Repositório
 
