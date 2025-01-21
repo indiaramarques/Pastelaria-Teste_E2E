@@ -28,8 +28,11 @@
 
 ## Executar os Testes
 
-Para rodar os testes, execute o seguinte comando:
+- Para rodar os testes, execute o seguinte comando:
 `pytest .`
+
+- Alternativamente pode rodar o projeto com o arquivo
+  `setup.cmd`
 
 Os testes irão rodar automaticamente no Chrome, e o relatório de execução será exibido no terminal.
 
